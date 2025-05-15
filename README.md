@@ -4,7 +4,7 @@ TrustPCA is a webtool that implements a probabilistic framework that predicts th
 
 - **Website:** https://trustpca.streamlit.app/
 - **Paper:** a link will be added after acceptance
-- **Theory and paper code:** https://github.com/TrustPCAuser/TrustPCA/tree/theory_and_paper_code
+- **Theory and paper code:** https://trustpca-tuevis.cs.uni-tuebingen.de/
 
 ## Tool specification
 > [!NOTE] 

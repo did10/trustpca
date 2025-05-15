@@ -179,3 +179,4 @@ data/eigenvectors.npy
 database/eigenvectors.npy
 data/eigenvectors1.npy
 data/eigenvectors2.npy
+*.tar.gz

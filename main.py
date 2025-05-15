@@ -605,8 +605,8 @@ if st.session_state["active_tab"] == "Input Data":
                         st.session_state["checkbox_states"][i] = st.checkbox(
                             entry, value=st.session_state["checkbox_states"][i], key=f"checkbox_{i}"
                         )
-                st.info("This option is disabled in the preliminary version of the TrustPCA web tool due to Streamlit's/Github's file size restrictions. Future releases will be hosted on our own servers, but this is currently not possible due to the double-blind peer review process.")
-                if st.button("Submit Selection", disabled=True): #, disabled=True):
+                # st.info("This option is disabled in the preliminary version of the TrustPCA web tool due to Streamlit's/Github's file size restrictions. Future releases will be hosted on our own servers, but this is currently not possible due to the double-blind peer review process.")
+                if st.button("Submit Selection", disabled=False): #, disabled=True):
                     if st.session_state["parsed"]:
                         print("parsed")
                         st.session_state["parsed"]=False
