@@ -2,7 +2,7 @@
 
 TrustPCA is a webtool that implements a probabilistic framework that predicts the uncertainty of SmartPCA projections due to missing genotype information and visualizes the uncertainties in a PC scatter plot.
 
-- **Website:** https://trustpca.streamlit.app/
+- **Website:** https://https://trustpca-tuevis.cs.uni-tuebingen.de/
 - **Paper:** https://doi.org/10.1186/s12864-025-11728-1
 - **Theory and paper code:** https://github.com/TrustPCAuser/TrustPCA/tree/theory_and_paper_code
 
