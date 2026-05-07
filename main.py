@@ -907,10 +907,10 @@ elif st.session_state["active_tab"] == "More Infos on TrustPCA":
     ---
     ### Citation & References
     If you use TRUST PCA in your research, please cite:
-    **Author Names**, "A Probabilistic Approach to Visualize the Effect of Missing Data on PCA in Ancient Human Genomics", *Journal XYZ*, 2025.
-    DOI: [10.xxxx/xxxxxx](https://doi.org/xxxx/xxxx)
+    **Susanne Zabel1, Samira Breitling, Cosimo Posth, and Kay Nieselt**, "A Probabilistic Approach to Visualize the Effect of Missing Data on PCA in Ancient Human Genomics", *Published in BMC Genomics*, 2025.
+    DOI: [10.1186/s12864-025-11728-1](https://doi.org/10.1186/s12864-025-11728-1)
     ### About This Tool
-    - **Developed by:** XYZ Research Group
+    - **Developed by:** Integrative Transcriptomics Research Group
     """,
         unsafe_allow_html=True)
 
